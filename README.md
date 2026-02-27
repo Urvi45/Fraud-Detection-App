@@ -18,12 +18,6 @@ The model is trained using the **Gradient Boosting Classifier** and deployed usi
 
 ---
 
-## 🚀 Live Application
-
-You can access the deployed application here:
-
-👉 https://urvi45-fraud-detection-app-app-usghvv.streamlit.app/
-
 The app allows:
 - CSV file upload
 - Batch transaction prediction
